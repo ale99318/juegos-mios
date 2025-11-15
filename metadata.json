@@ -1,0 +1,5 @@
+{
+  "name": "Suga Rescue Quest",
+  "description": "A Mario-style platformer game for mobile browsers. The player jumps over obstacles, collects coins, and rescues Suga at the end. The game features a purple and black BTS-inspired color palette with neon aesthetics.",
+  "requestFramePermissions": []
+}
