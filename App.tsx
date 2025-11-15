@@ -39,7 +39,7 @@ const App: React.FC = () => {
         return (
             <div className="w-full h-full flex flex-col justify-center items-center text-white bg-gradient-to-b from-black to-[#430075] p-4 text-center">
                 <h1 className="text-4xl font-bold mb-4" style={{ textShadow: '0 0 10px #A020F0' }}>¡Has rescatado a Suga!</h1>
-                <img src="https://i.pinimg.com/originals/6a/e0/9a/6ae09a91a2c3c0a5a5482381f887a04f.png" alt="Suga Rescued" className="w-48 h-48 object-cover rounded-full my-4 border-4 border-purple-400 shadow-[0_0_20px_#A020F0]" />
+                <img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/chibi-bts-yoongi/sticker_16.png" alt="Suga Rescued" className="w-48 h-48 object-contain my-4 drop-shadow-[0_0_10px_#A020F0]" />
                 <button
                     onClick={startGame}
                     className="mt-4 px-8 py-4 bg-black border-2 border-[#A020F0] text-white text-2xl rounded-lg shadow-[0_0_15px_#A020F0] hover:bg-[#A020F0] transition-all duration-300"

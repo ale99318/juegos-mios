@@ -202,7 +202,7 @@ const GameScreen: React.FC<GameScreenProps> = ({ onGameOver, onVictory }) => {
       case 'goal':
         return (
           <div key={obj.id} style={commonStyle} className="flex flex-col items-center justify-center">
-             <img src="https://i.pinimg.com/originals/6a/e0/9a/6ae09a91a2c3c0a5a5482381f887a04f.png" alt="Suga" className="w-full h-full object-contain" />
+             <img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/chibi-bts-yoongi/sticker_16.png" alt="Suga" className="w-full h-full object-contain" />
           </div>
         );
       default:
